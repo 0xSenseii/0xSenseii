@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xSenseii
 - 👀 I’m interested in Crypto & Cybersec
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me -> [Twitter](https://twitter.com/0xSensei) | [YouTube](https://www.youtube.com/channel/UCJmXuwt5fKwxFfRnifuDqpg)
 
 <!---
